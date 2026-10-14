@@ -1,1 +1,2 @@
-# colorhaker
+# COLOR ХАКЕР
+Сайт салона красоты. Главный файл — index.html.
